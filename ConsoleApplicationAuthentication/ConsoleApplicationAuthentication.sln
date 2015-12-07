@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationAuthentication", "ConsoleApplicationAuthentication\ConsoleApplicationAuthentication.csproj", "{92266069-BD7C-430A-917C-05056D89935D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAppAuthentication", "WFAppAuthentication\WFAppAuthentication.csproj", "{E0B4219E-B3C9-4C19-B81B-965B8D94E317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{28990617-4791-45C0-B976-AC49C60C1B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAppAuthWeb1", "WFAppAuthWeb1\WFAppAuthWeb1.csproj", "{144D806F-D56C-4D02-8DC4-5A24B0B93948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92266069-BD7C-430A-917C-05056D89935D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92266069-BD7C-430A-917C-05056D89935D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92266069-BD7C-430A-917C-05056D89935D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92266069-BD7C-430A-917C-05056D89935D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B4219E-B3C9-4C19-B81B-965B8D94E317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B4219E-B3C9-4C19-B81B-965B8D94E317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B4219E-B3C9-4C19-B81B-965B8D94E317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B4219E-B3C9-4C19-B81B-965B8D94E317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28990617-4791-45C0-B976-AC49C60C1B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28990617-4791-45C0-B976-AC49C60C1B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28990617-4791-45C0-B976-AC49C60C1B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28990617-4791-45C0-B976-AC49C60C1B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144D806F-D56C-4D02-8DC4-5A24B0B93948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144D806F-D56C-4D02-8DC4-5A24B0B93948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144D806F-D56C-4D02-8DC4-5A24B0B93948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144D806F-D56C-4D02-8DC4-5A24B0B93948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

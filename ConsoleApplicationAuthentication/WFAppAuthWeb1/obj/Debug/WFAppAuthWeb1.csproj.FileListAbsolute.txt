@@ -1,0 +1,9 @@
+C:\Users\MARS\Documents\Visual Studio 2013\Projects\ConsoleApplicationAuthentication\WFAppAuthWeb1\obj\Debug\WFAppAuthWeb1.Form1.resources
+C:\Users\MARS\Documents\Visual Studio 2013\Projects\ConsoleApplicationAuthentication\WFAppAuthWeb1\obj\Debug\WFAppAuthWeb1.Properties.Resources.resources
+C:\Users\MARS\Documents\Visual Studio 2013\Projects\ConsoleApplicationAuthentication\WFAppAuthWeb1\obj\Debug\WFAppAuthWeb1.csproj.GenerateResource.Cache
+C:\Users\MARS\Documents\Visual Studio 2013\Projects\ConsoleApplicationAuthentication\WFAppAuthWeb1\bin\Debug\WFAppAuthWeb1.exe.config
+C:\Users\MARS\Documents\Visual Studio 2013\Projects\ConsoleApplicationAuthentication\WFAppAuthWeb1\bin\Debug\WFAppAuthWeb1.exe
+C:\Users\MARS\Documents\Visual Studio 2013\Projects\ConsoleApplicationAuthentication\WFAppAuthWeb1\bin\Debug\WFAppAuthWeb1.pdb
+C:\Users\MARS\Documents\Visual Studio 2013\Projects\ConsoleApplicationAuthentication\WFAppAuthWeb1\obj\Debug\WFAppAuthWeb1.exe
+C:\Users\MARS\Documents\Visual Studio 2013\Projects\ConsoleApplicationAuthentication\WFAppAuthWeb1\obj\Debug\WFAppAuthWeb1.pdb
+C:\Users\MARS\Documents\Visual Studio 2013\Projects\ConsoleApplicationAuthentication\WFAppAuthWeb1\obj\Debug\WFAppAuthWeb1.csprojResolveAssemblyReference.cache
